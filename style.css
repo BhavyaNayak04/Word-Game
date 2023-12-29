@@ -1,7 +1,6 @@
  body
     {
          background-color: rgb(70, 69, 69);
-         overflow: hidden;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
 
@@ -133,7 +132,8 @@
    }
    main
     {
-        height: 100vh;
+        max-height: 100vh;
+        height: 100%;
         width: 100%;
     }
     }
