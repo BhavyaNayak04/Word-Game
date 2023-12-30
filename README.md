@@ -1,4 +1,4 @@
-### Word Game
+### 🎯 Word Game
 ### A random word 4 letter word will be generated. You have to guess the word using the hints given.
 ### Start off with a vague guess. It can be any four lettered English word.
 ### If your guess is correct, well, congrats! That's rear!
