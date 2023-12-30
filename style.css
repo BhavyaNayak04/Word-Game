@@ -95,9 +95,14 @@
     }
     @media only screen and (max-width: 550px)
     {
+       body
+     {
+      background-color: black;
+     }
         .container{
-         min-height: 330px;
+         min-height: 350px;
          width: 100%;
+         border: none;
         }
     .playarea
     {
